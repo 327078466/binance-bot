@@ -1504,8 +1504,7 @@ AI功能：
 └─ 企业级解决方案
 
 联系方式：
-Email: business@example.com
-WeChat: your-wechat-id
+Email: 327078466@qq.com
 ```
 
 ### 开源贡献

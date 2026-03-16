@@ -143,6 +143,7 @@
 
 <img width="1424" height="791" alt="image" src="https://github.com/user-attachments/assets/0ef8d108-e49e-4e81-bd29-da9346924ff1" />
 
+目前已更新最新版本，日盈利10%
 
 <p align="center">
   <strong>⚡ 立即开始您的量化交易之旅！⚡</strong>

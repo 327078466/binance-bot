@@ -1,4 +1,4 @@
-# 量化机器人
+# 量化/交易机器人
 
 **Binance Intelligent Trading Bot**
 
